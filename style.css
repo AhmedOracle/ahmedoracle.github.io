@@ -1,0 +1,19 @@
+.divParent{
+    text-align: center;
+    width: 70%;
+}
+.divAdd{
+    text-align: center;
+    width: 100%;
+    color:forestgreen;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.divAdd input{
+    text-align: center;
+    width: 50%;
+    color:forestgreen;
+    font-size: 20px;
+    padding: 10px;
+}
